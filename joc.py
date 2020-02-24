@@ -9,7 +9,7 @@ optional: afisam omuletul
 """
 import random
 
-lista_cuvinte = ['caine', 'girafa', 'lalea', 'lup', 'pisica', 'elefant', 'castor', 'maimuta', 'delfin']
+lista_cuvinte = ['caine', 'girafa', 'lalea', 'lup', 'pisica', 'elefant', 'castor', 'maimuta', 'delfin', "cal", "capra"]
 
 
 nr_vieti = 6
